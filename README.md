@@ -16,3 +16,7 @@ This repository captures the 3D printable files to allow the mounting of
 standard robots base known as a Waffle Plate to the WaveShare JetBot.
 
 Licensed under GPL3.
+
+Printing information
+* Tested in PETG. The flexibility of PETG helps to place the frame onto the robot
+	* PETG does shrink during printing this model noticably. I recomment scaling up by 1%
